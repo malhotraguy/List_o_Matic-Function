@@ -16,3 +16,4 @@ This program takes string input and checks if that string is in a list of string
 1) Check_list_o_matic which can be modified to ask for a specific type of item. This is the programmers choice. Add a list of fish, trees, books, movies, songs.... your choice.
 2) list-o-matic Function which takes arguments of a string and a list. The function modifies the list and returns a message as seen below.
 
+[https://github.com/malhotraguy/List_o_Matic-Function/blob/master/list_o_matic_mod2.png]
